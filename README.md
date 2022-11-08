@@ -6,15 +6,17 @@ Calculator app created using React JS and the package mathjs for the aritmethic 
 
 
 ## Demo Link: 
+
 [Link](https://zippy-llama-7947d2.netlify.app/)
 
 
 ## Technologies
 
 Project is created with:
-* React JS
-* CSS
-* Math JS package
+* ReactJS 18.2.0
+* CSS3
+* Math JS package v11.3.2
+
 
 ## Sources
 
