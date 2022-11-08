@@ -5,12 +5,12 @@ Calculator app created using React JS and the package mathjs for the aritmethic 
 <img
   src="https://user-images.githubusercontent.com/96319139/200693715-a383d24a-de1d-4f10-82f4-4e9cf19da680.png"
   alt="App preview"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; width: 270px">
 
 
 ## Demo Link: 
 
-[Link](https://zippy-llama-7947d2.netlify.app/)
+[Link](https://interactive-calculator-reactjs.netlify.app/)
 
 
 ## Technologies
