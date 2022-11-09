@@ -24,3 +24,7 @@ Project is created with:
 ## Sources
 
 This app is based  in the ["Calculadore Interactiva"](https://youtu.be/6Jfk8ic3KVk?t=13924) tutorial from [FreeCodeCamp en Español](https://www.youtube.com/c/freeCodeCampEspa%C3%B1ol) by [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN)
+
+## License 
+
+[MIT](https://choosealicense.com/licenses/mit/)
