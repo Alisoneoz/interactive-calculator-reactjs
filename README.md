@@ -8,7 +8,7 @@ Calculator app created using React JS and the package mathjs for the aritmethic 
   style="display: inline-block; margin: 0 auto; width: 270px">
 
 
-## Demo Link: 
+## Link: 
 
 [Link](https://interactive-calculator-reactjs.netlify.app/)
 
