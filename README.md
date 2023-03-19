@@ -1,4 +1,4 @@
-# Interactive Calculator
+# Interactive Calculator [![Netlify Status](https://api.netlify.com/api/v1/badges/a5145fb7-db46-4825-9482-8bce3bd2c369/deploy-status)](https://app.netlify.com/sites/interactive-calculator-reactjs/deploys)
 
 Calculator app created using React JS and the package mathjs for the aritmethic operation functionalities
 
